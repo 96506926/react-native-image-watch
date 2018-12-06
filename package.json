@@ -23,6 +23,7 @@
   },
   "author": "Shahen Hovhannisyan <shahen.hovhannisyan.94@gmail.com>",
   "peerDependencies": {
-    "react-native": ">=0.29"
+    "react-native": ">=0.29",
+    "prop-types": "^15.6.2"
   }
 }

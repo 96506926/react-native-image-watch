@@ -1,21 +1,21 @@
 # react-native-image-fit
-ImageViewer component for RN
+ImageWatch component for RN
 
 ### Installation
 
 ```sh
-$ npm install --save react-native-image-fit
+$ npm install --save react-native-image-watch
 ```
 or
 
 ```sh
-$ yarn add react-native-image-fit
+$ yarn add react-native-image-watch
 ```
 
 ### Usage
 
 ```javascript
-import { ImageViewer } from 'react-native-image-fit';
+import { ImageViewer } from 'react-native-image-watch';
 
 export const App = () => (
   <ImageViewer
@@ -36,6 +36,3 @@ export const App = () => (
 )
 ```
 
-### ImageViewer Component example
-
-![ezgif-3352117320](https://cloud.githubusercontent.com/assets/13334788/19832054/dc83a9f4-9e2a-11e6-9023-ccd80fb944b5.gif)

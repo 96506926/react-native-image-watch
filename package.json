@@ -1,7 +1,7 @@
 {
-  "name": "react-native-image-fit",
-  "version": "0.9.10",
-  "description": "ImageViewer for RN",
+  "name": "react-native-image-watch",
+  "version": "1.0.0",
+  "description": "ImageWatch for RN",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,9 +19,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:shahen94/react-native-image-fit.git"
+    "url": "git@github.com:96506926/react-native-image-watch.git"
   },
-  "author": "Shahen Hovhannisyan <shahen.hovhannisyan.94@gmail.com>",
+  "author": "guo",
   "peerDependencies": {
     "react-native": ">=0.29",
     "prop-types": "^15.6.2"
